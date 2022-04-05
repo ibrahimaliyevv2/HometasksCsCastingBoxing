@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F00884FD-E803-4C53-8084-BED15D81D847}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PhoneStore/Store.cs">
+    <Files>
+      <File FileName="PhoneStore/Program.cs" Line="35" Column="38" />
+      <File FileName="PhoneStore/Store.cs" Line="61" Column="35" />
+      <File FileName="PhoneStore/Product.cs" />
+      <File FileName="PhoneStore/Notebook.cs" />
+      <File FileName="PhoneStore/Phone.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PhoneStore" expanded="True">
+            <Node name="PhoneStore" expanded="True">
+              <Node name="Store.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PhoneStore PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

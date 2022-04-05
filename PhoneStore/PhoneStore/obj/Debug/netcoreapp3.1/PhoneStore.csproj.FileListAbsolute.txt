@@ -1,0 +1,13 @@
+/Users/ibrahimaliyevv/Projects/HometasksCsCastingBoxing/PhoneStore/PhoneStore/bin/Debug/netcoreapp3.1/PhoneStore.deps.json
+/Users/ibrahimaliyevv/Projects/HometasksCsCastingBoxing/PhoneStore/PhoneStore/bin/Debug/netcoreapp3.1/PhoneStore.runtimeconfig.json
+/Users/ibrahimaliyevv/Projects/HometasksCsCastingBoxing/PhoneStore/PhoneStore/bin/Debug/netcoreapp3.1/PhoneStore.runtimeconfig.dev.json
+/Users/ibrahimaliyevv/Projects/HometasksCsCastingBoxing/PhoneStore/PhoneStore/bin/Debug/netcoreapp3.1/PhoneStore.dll
+/Users/ibrahimaliyevv/Projects/HometasksCsCastingBoxing/PhoneStore/PhoneStore/bin/Debug/netcoreapp3.1/PhoneStore.pdb
+/Users/ibrahimaliyevv/Projects/HometasksCsCastingBoxing/PhoneStore/PhoneStore/obj/Debug/netcoreapp3.1/PhoneStore.csproj.AssemblyReference.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsCastingBoxing/PhoneStore/PhoneStore/obj/Debug/netcoreapp3.1/PhoneStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimaliyevv/Projects/HometasksCsCastingBoxing/PhoneStore/PhoneStore/obj/Debug/netcoreapp3.1/PhoneStore.AssemblyInfoInputs.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsCastingBoxing/PhoneStore/PhoneStore/obj/Debug/netcoreapp3.1/PhoneStore.AssemblyInfo.cs
+/Users/ibrahimaliyevv/Projects/HometasksCsCastingBoxing/PhoneStore/PhoneStore/obj/Debug/netcoreapp3.1/PhoneStore.csproj.CoreCompileInputs.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsCastingBoxing/PhoneStore/PhoneStore/obj/Debug/netcoreapp3.1/PhoneStore.dll
+/Users/ibrahimaliyevv/Projects/HometasksCsCastingBoxing/PhoneStore/PhoneStore/obj/Debug/netcoreapp3.1/PhoneStore.pdb
+/Users/ibrahimaliyevv/Projects/HometasksCsCastingBoxing/PhoneStore/PhoneStore/obj/Debug/netcoreapp3.1/PhoneStore.genruntimeconfig.cache
